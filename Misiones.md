@@ -1,2 +1,5 @@
 # Misiones
-Investigar los planes
+
+- Investigar los planes
+
+* Capturar a red Skull
